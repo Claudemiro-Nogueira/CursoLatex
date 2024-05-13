@@ -32,7 +32,10 @@ O curso será ministrado através de aulas teóricas e práticas, com demonstra�
 
 ## Videos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j_ZSX0fARyU?si=rOLyrVlpZ3xImAxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[![Introducao](https://img.youtube.com/vi/j_ZSX0fARyU/0.jpg)](https://www.youtube.com/watch?v=j_ZSX0fARyU&ab_channel=ClaudemiroBarbosa) 
+[![Introducao](https://img.youtube.com/vi/j_ZSX0fARyU/0.jpg)](https://www.youtube.com/watch?v=j_ZSX0fARyU&ab_channel=ClaudemiroBarbosa) 
+[![Introducao](https://img.youtube.com/vi/j_ZSX0fARyU/0.jpg)](https://www.youtube.com/watch?v=j_ZSX0fARyU&ab_channel=ClaudemiroBarbosa) 
+[![Introducao](https://img.youtube.com/vi/j_ZSX0fARyU/0.jpg)](https://www.youtube.com/watch?v=j_ZSX0fARyU&ab_channel=ClaudemiroBarbosa) 
 
 
