@@ -30,6 +30,9 @@ O curso será ministrado através de aulas teóricas e práticas, com demonstra�
 - Compilador LaTeX 
 - Materiais de Apoio (tutoriais e atividades)
 
+## Videos
+
+<iframe src="https://drive.google.com/file/d/16c0XnnUPBTcVmBfbcMYavN0s1EgDblSN/view" width="640" height="480"></iframe>
 
 
 
