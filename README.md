@@ -30,12 +30,22 @@ O curso será ministrado através de aulas teóricas e práticas, com demonstra�
 - Compilador LaTeX 
 - Materiais de Apoio (tutoriais e atividades)
 
+## Informações adicionais:
+
+Carga horária: 8 hroas
+Formato: Presencial
+Investimento: 0800
+Local: IFPI
+
 ## Videos
 
-
-[![Introducao](https://img.youtube.com/vi/j_ZSX0fARyU/0.jpg)](https://www.youtube.com/watch?v=j_ZSX0fARyU&ab_channel=ClaudemiroBarbosa) 
-[![Introducao](https://img.youtube.com/vi/j_ZSX0fARyU/0.jpg)](https://www.youtube.com/watch?v=j_ZSX0fARyU&ab_channel=ClaudemiroBarbosa) 
-[![Introducao](https://img.youtube.com/vi/j_ZSX0fARyU/0.jpg)](https://www.youtube.com/watch?v=j_ZSX0fARyU&ab_channel=ClaudemiroBarbosa) 
-[![Introducao](https://img.youtube.com/vi/j_ZSX0fARyU/0.jpg)](https://www.youtube.com/watch?v=j_ZSX0fARyU&ab_channel=ClaudemiroBarbosa) 
+### Introdução
+[![Introducao](https://img.youtube.com/vi/j_ZSX0fARyU/0.jpg)](https://www.youtube.com/watch?v=j_ZSX0fARyU&ab_channel=ClaudemiroBarbosa) <br>
+### Tags Basicas
+[![Introducao](https://img.youtube.com/vi/YgPdi4HvWbs/0.jpg)](https://www.youtube.com/watch?v=YgPdi4HvWbs&ab_channel=ClaudemiroBarbosa) <br>
+### Referência Bibliografica
+[![Introducao](https://img.youtube.com/vi/dArelES0AR4/0.jpg)](https://www.youtube.com/watch?v=dArelES0AR4&ab_channel=ClaudemiroBarbosa) <br>
+### Template
+[![Introducao](https://img.youtube.com/vi/3C7ktUTWiDI/0.jpg)](https://www.youtube.com/watch?v=3C7ktUTWiDI&ab_channel=ClaudemiroBarbosa) <br>
 
 
