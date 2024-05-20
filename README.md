@@ -23,7 +23,8 @@ O curso de LaTeX é destinado a estudantes, pesquisadores e profissionais que de
 5. Equações Matemáticas
 
 ## Metodologia de Ensino
-O curso será ministrado através de aulas teóricas e práticas, com demonstrações de exemplos e exercícios para os participantes praticarem.
+- Aulas teóricas e práticas
+- Exemplos e exercícios
 
 ## Recursos Necessários
 - Editor de Texto (Overleaf)
@@ -32,10 +33,10 @@ O curso será ministrado através de aulas teóricas e práticas, com demonstra�
 
 ## Informações adicionais:
 
-Carga horária: 8 hroas
-Formato: Presencial
-Investimento: 0800
-Local: IFPI
+- Carga horária: 8 hroas
+- Formato: Presencial
+- Investimento: 0800
+- Local: IFPI
 
 ## Videos
 
